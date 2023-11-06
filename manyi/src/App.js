@@ -7,6 +7,7 @@ function App() {
       <div className="rainbow rainbow_text_animated">
         Ангелина ГеЙ
       </div>
+      <img src=""></img>
     </div>
   );
 }
